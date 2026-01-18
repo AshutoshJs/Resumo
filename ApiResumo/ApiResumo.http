@@ -1,0 +1,6 @@
+@ApiResumo_HostAddress = http://localhost:5140
+
+GET {{ApiResumo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
